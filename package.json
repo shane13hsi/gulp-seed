@@ -32,6 +32,7 @@
     "coffeeify": "~0.7.0",
     "gulp": "^3.8.7",
     "gulp-changed": "^0.4.1",
+    "gulp-concat": "^2.3.4",
     "gulp-imagemin": "^0.6.2",
     "gulp-notify": "^1.4.2",
     "gulp-sass": "^0.7.3",
@@ -45,7 +46,6 @@
   },
   "dependencies": {
     "backbone": "~1.1.2",
-    "gulp-concat": "^2.3.4",
     "jquery": "~2.1.0"
   }
 }
