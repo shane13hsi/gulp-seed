@@ -30,6 +30,7 @@
     "browserify": "~5.10.1",
     "browserify-shim": "~3.7.0",
     "coffeeify": "~0.7.0",
+    "express": "^4.8.7",
     "gulp": "^3.8.7",
     "gulp-changed": "^0.4.1",
     "gulp-concat": "^2.3.4",
